@@ -5,7 +5,7 @@
 
 ## As a data scientist, you have to first explore the data and check its sanity.
 
-## Further, you have to answer the following questions:
+## Further, you have to answer the following questions:-
 1. ### <b> Which movie made the highest profit? Who were its producer and director? Identify the actors in that film.</b>
 2. ### <b>This data has information about movies made in different languages. Which language has the highest average ROI (return on investment). </b>
 3. ### <b> Find out the unique genres of movies in this dataset.</b>
